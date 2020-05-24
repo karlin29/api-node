@@ -1,0 +1,11 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/karlin29/api-node.git",
+  "author": "Carlos Avance <carlosavance@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
